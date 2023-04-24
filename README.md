@@ -1,7 +1,3 @@
-# Parcel template
-
-Цей проект було створено за допомогою Parcel. Для знайомства та налаштування додаткових можливостей [зверніться до документації](https://parceljs.org/).
-
 Icecream - my team project for the HTML and CSS course at GoIT.
 
 The project is an attractive and well-structured website for an ice cream production company. The use of bright colors and images of ice cream creates a pleasant mood and provides information that the company specializes in this product.
