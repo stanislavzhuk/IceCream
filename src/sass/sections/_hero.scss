@@ -95,7 +95,7 @@
     }
   }
 }
-.hero_ic--left {
+.hero-ic--left {
   @media screen and (max-width: $tablet) {
     display: none;
   }
@@ -103,7 +103,7 @@
     display: block;
   }
 }
-.hero_ic--right {
+.hero-ic--right {
   position: absolute;
   bottom: 0;
   left: 50%;

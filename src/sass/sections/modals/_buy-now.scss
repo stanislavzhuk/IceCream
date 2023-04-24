@@ -40,17 +40,16 @@
   height: 20px;
   cursor: pointer;
 
-  transition-property: fill;
-  transition-duration: 250ms;
-  transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
-
   display: flex;
   align-items: center;
   justify-content: center;
 
+  transition: fill $anim-std, transform $anim-std;
+  
   &:hover,
   &:focus {
     fill: $accent-color;
+    transform: rotate(360deg);
   }
 }
 
